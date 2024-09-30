@@ -1,0 +1,33 @@
+---
+title: "昕瑞再生 SMART-seq2 分析结题报告"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+toc-title: "目录"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### 项目概述
+
+### 流程介绍
+
+### 数据质控
+
+### 序列比对分析
+
+### 表达量统计
+
+### 样本关系分析
+
+### 组件差异分析
+
+### 互作网络分析
+
+### GSEA 分析
